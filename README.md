@@ -32,3 +32,6 @@ This project was part of a semester long competition and exploration project wit
 
 ![image](https://user-images.githubusercontent.com/98669438/194228195-292bfd32-a825-4626-aac2-8416265de7b7.png)
 
+###Awards
+- Won 1st place in Rice's semester long DEEP Project
+
